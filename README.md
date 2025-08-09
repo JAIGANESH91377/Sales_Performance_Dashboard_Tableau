@@ -4,7 +4,7 @@
 This project is an interactive Tableau dashboard designed to explore and analyze sales performance across categories, sub-categories, and cities.
 It helps identify top-performing products, geographic sales hotspots, and profitability trends for better business decisions.
 
-🔗 View Dashboard on Tableau Public: https://public.tableau.com/app/profile/jaiganesh.mabbu/viz/jaitablue/Dashboard3?publish=yes
+🔗 View Dashboard on Tableau Public: https://public.tableau.com/app/profile/jaiganesh.mabbu/viz/jaitablue/Dashboard3
 
 📈 Key Features
 Sales vs Quantity analysis to understand demand patterns.
